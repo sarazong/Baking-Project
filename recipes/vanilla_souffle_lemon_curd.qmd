@@ -7,7 +7,7 @@ format:
     date-format: long
 ---
 
-![](images/p1_vanilla_souffle.jpg)
+![](images/r1_vanilla_souffles.jpg)
 
 ```{r}
 #| label: load-packages
@@ -142,5 +142,5 @@ spongy part of the lemon peel that could taste bitter.
 
 
 ## Recipe Credits:
-- Vanilla souffle recipe is from [Cooking Tree](https://en.cooking-tree.com/vanilla-souffle-recipe-2/){target="_blank"}
-- Lemon curd recipe is from [The Best Lemon Curd](https://buttermilkbysam.com/the-best-lemon-curd/){target="_blank"}
+- Original vanilla souffle recipe is from [Cooking Tree](https://en.cooking-tree.com/vanilla-souffle-recipe-2/){target="_blank"}
+- Original lemon curd recipe is from [The Best Lemon Curd](https://buttermilkbysam.com/the-best-lemon-curd/){target="_blank"}

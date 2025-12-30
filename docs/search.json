@@ -39,7 +39,7 @@
     "href": "recipes/vanilla_souffle_lemon_curd.html#recipe-credits",
     "title": "Vanilla Souffle with Lemon Curd",
     "section": "Recipe Credits:",
-    "text": "Recipe Credits:\n\nVanilla souffle recipe is from Cooking Tree\nLemon curd recipe is from The Best Lemon Curd"
+    "text": "Recipe Credits:\n\nOriginal vanilla souffle recipe is from Cooking Tree\nOriginal lemon curd recipe is from The Best Lemon Curd"
   },
   {
     "objectID": "matcha_souffle.html",
@@ -102,7 +102,7 @@
     "href": "chocolate_souffle.html#szzzzs-notes",
     "title": "Chocolate Souffle",
     "section": "SZzZz’s Notes:",
-    "text": "SZzZz’s Notes:\n\nBrushing butter onto the ramekin with upward stroke and coating the side with sugar provide surface for the souffle mix to rise.\nRecipe #1 is pretty much enough to fill four 8oz ramekins.\nSince serving this with lemon curd, reduce the sugar in the souffle."
+    "text": "SZzZz’s Notes:"
   },
   {
     "objectID": "chocolate_souffle.html#references",
@@ -180,5 +180,12 @@
     "title": "Japanese Cheese Cake",
     "section": "Credits:",
     "text": "Credits:\n\nOriginal recipe came from Just One Cookbook"
+  },
+  {
+    "objectID": "chocolate_souffle.html#recipe-credits",
+    "href": "chocolate_souffle.html#recipe-credits",
+    "title": "Chocolate Souffle",
+    "section": "Recipe Credits:",
+    "text": "Recipe Credits:\n\nOriginal Recipe from New York Times"
   }
 ]
