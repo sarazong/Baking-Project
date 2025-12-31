@@ -1,0 +1,54 @@
+---
+title: "Chocolate Souffle"
+date: 11-08-2025 
+date-modified: last-modified
+format: 
+  html:
+    date-format: long
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tibble)
+library(gt)
+source("utility_functions.R")
+```
+
+
+### **Chocolate Souffles (amount: two 8oz ramekins)**
+```{r}
+#| label: recipe
+#| echo: false
+ingredients <- list(
+  "1. large eggs (50g each without shell)" = "2",
+  "2. chocolate (60 to 65 percent cacao)" = "75 g",
+  "3. unsalted butter" = "38 g",
+  "4. sugar for egg white" = "16 g",
+  "5. sea salt" = "pinch",
+  "6. powder sugar" = "1 Tbsp"
+)
+
+make_ingredient_tab(ingredients)
+```
+
+
+## Step by Step
+
+1. Grease ramekins with butter and coat with sugar.
+2. Melt chocolate and butter over simmering water. 
+3. Let the chocolate cool slight to warm and add egg yolks and salt.
+4. Whisk the egg white with a hand mixer and add sugar 1/3 at a time, until soft peaks. 
+5. Whip the mixture in step 3 with a hand mixer.
+6. Fold in the meringue 1/3 at a time with a spatula.
+7. Divide the batter among the ramekins. 
+8. Bake at 400F for about 15mins
+9. Dust with powdered sugar immediately after taking out.
+
+## SZzZz's Notes:
+Notes for coating the ramekins [Sara Z’s Notes/Tips in the vanilla souffle recipe](https://sarazong.github.io/Baking-Project/recipes/vanilla_souffle_lemon_curd.html)
+
+## Recipe Credits:
+- Original Recipe from [New York Times](https://cooking.nytimes.com/recipes/1018499-bittersweet-chocolate-souffle){target="_blank"}
+

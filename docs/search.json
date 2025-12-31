@@ -11,7 +11,7 @@
     "href": "recipe_list.html",
     "title": "Sara Z’s Favorite Dessert Recipes",
     "section": "",
-    "text": "Vanilla Souffle with Lemon Curd\n\n\n\n\n\n\n\n\n\nNov 21, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Vanilla Souffle with Lemon Curd\n\n\n\n\n\n\n\n\n\nNov 21, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nChocolate Souffle\n\n\n\n\n\n\n\n\n\nNov 8, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "recipes/vanilla_souffle_lemon_curd.html#ingredients",
@@ -40,6 +40,34 @@
     "title": "Vanilla Souffle with Lemon Curd",
     "section": "Recipe Credits:",
     "text": "Recipe Credits:\n\nOriginal vanilla souffle recipe is from Cooking Tree\nOriginal lemon curd recipe is from The Best Lemon Curd"
+  },
+  {
+    "objectID": "recipes/chocolate_souffle.html",
+    "href": "recipes/chocolate_souffle.html",
+    "title": "Chocolate Souffle",
+    "section": "",
+    "text": "Quantity\n    \n  \n  \n    1. large eggs (50g each without shell)\n2\n    2. chocolate (60 to 65 percent cacao)\n75 g\n    3. unsalted butter\n38 g\n    4. sugar for egg white\n16 g\n    5. sea salt\npinch\n    6. powder sugar\n1 Tbsp"
+  },
+  {
+    "objectID": "recipes/chocolate_souffle.html#step-by-step",
+    "href": "recipes/chocolate_souffle.html#step-by-step",
+    "title": "Chocolate Souffle",
+    "section": "Step by Step",
+    "text": "Step by Step\n\nGrease ramekins with butter and coat with sugar.\nMelt chocolate and butter over simmering water.\nLet the chocolate cool slight to warm and add egg yolks and salt.\nWhisk the egg white with a hand mixer and add sugar 1/3 at a time, until soft peaks.\nWhip the mixture in step 3 with a hand mixer.\nFold in the meringue 1/3 at a time with a spatula.\nDivide the batter among the ramekins.\nBake at 400F for about 15mins\nDust with powdered sugar immediately after taking out."
+  },
+  {
+    "objectID": "recipes/chocolate_souffle.html#szzzzs-notes",
+    "href": "recipes/chocolate_souffle.html#szzzzs-notes",
+    "title": "Chocolate Souffle",
+    "section": "SZzZz’s Notes:",
+    "text": "SZzZz’s Notes:\nNotes for coating the ramekins Sara Z’s Notes/Tips in the vanilla souffle recipe"
+  },
+  {
+    "objectID": "recipes/chocolate_souffle.html#recipe-credits",
+    "href": "recipes/chocolate_souffle.html#recipe-credits",
+    "title": "Chocolate Souffle",
+    "section": "Recipe Credits:",
+    "text": "Recipe Credits:\n\nOriginal Recipe from New York Times"
   },
   {
     "objectID": "matcha_souffle.html",
@@ -77,41 +105,6 @@
     "text": "References:"
   },
   {
-    "objectID": "chocolate_souffle.html",
-    "href": "chocolate_souffle.html",
-    "title": "Chocolate Souffle",
-    "section": "",
-    "text": "Quantity\n    \n  \n  \n    1. large eggs (50g each without shell)\n6\n    2. chocolate (60 to 65 percent cacao)\n225 g\n    3. unsalted butter\n114 g\n    4. sugar for egg white\n50 g\n    5. cream of tartar\n1/2 tsp\n    6. sea salt\npinch\n    7. powder sugar\n1 Tbsp\n  \n  \n  \n    \n       Recipe is enough for six 8oz ramikens."
-  },
-  {
-    "objectID": "chocolate_souffle.html#recipe-1-ingredients",
-    "href": "chocolate_souffle.html#recipe-1-ingredients",
-    "title": "Chocolate Souffle",
-    "section": "",
-    "text": "Quantity\n    \n  \n  \n    1. large eggs (50g each without shell)\n6\n    2. chocolate (60 to 65 percent cacao)\n225 g\n    3. unsalted butter\n114 g\n    4. sugar for egg white\n50 g\n    5. cream of tartar\n1/2 tsp\n    6. sea salt\npinch\n    7. powder sugar\n1 Tbsp\n  \n  \n  \n    \n       Recipe is enough for six 8oz ramikens."
-  },
-  {
-    "objectID": "chocolate_souffle.html#step-by-step",
-    "href": "chocolate_souffle.html#step-by-step",
-    "title": "Chocolate Souffle",
-    "section": "Step by Step",
-    "text": "Step by Step\n\nGrease ramekins with butter and coat with sugar.\nMelt chocolate and butter over simmering water.\nAdd egg yolks and salt to warm mixture in step 2.\nWhisk the egg white with a hand mixer and add sugar in 1/3 at a time.\nWhip the mixture in step 3 with a hand mixer.\nFold in the meringue 1/3 at a time with a spatula.\nDivide the batter among the ramekins.\nBake at 400F for about 15mins\nDust with powdered sugar immediately after taking out."
-  },
-  {
-    "objectID": "chocolate_souffle.html#szzzzs-notes",
-    "href": "chocolate_souffle.html#szzzzs-notes",
-    "title": "Chocolate Souffle",
-    "section": "SZzZz’s Notes:",
-    "text": "SZzZz’s Notes:"
-  },
-  {
-    "objectID": "chocolate_souffle.html#references",
-    "href": "chocolate_souffle.html#references",
-    "title": "Chocolate Souffle",
-    "section": "References:",
-    "text": "References:\n\nRecipe #1 is from Cooking Tree\nRecipe #2 is from MoLaLa Cook"
-  },
-  {
     "objectID": "puff_pastry_egg_tart.html",
     "href": "puff_pastry_egg_tart.html",
     "title": "Puff Pastry Egg Tart",
@@ -147,6 +140,34 @@
     "text": "References:\n\nDu Shifu’s White Swan Cuisine YouTube channel"
   },
   {
+    "objectID": "orange_sauce.html",
+    "href": "orange_sauce.html",
+    "title": "Orange Sauce",
+    "section": "",
+    "text": "#| label: recipe\n#| echo: false\ningredients &lt;- list(\n  \"1. sugar\" = \"25 g\",\n  \"2. cornstarch\" = \"1.5 g\",\n  \"3. orange zestr\" = \"1/8 tsp\",\n  \"4. orange juice\" = \"80 g\",\n  \"5. butter\" = \"5 g\"\n)"
+  },
+  {
+    "objectID": "orange_sauce.html#step-by-step",
+    "href": "orange_sauce.html#step-by-step",
+    "title": "Orange Sauce",
+    "section": "Step by Step",
+    "text": "Step by Step"
+  },
+  {
+    "objectID": "orange_sauce.html#szzzzs-notes",
+    "href": "orange_sauce.html#szzzzs-notes",
+    "title": "Orange Sauce",
+    "section": "SZzZz’s Notes:",
+    "text": "SZzZz’s Notes:"
+  },
+  {
+    "objectID": "orange_sauce.html#recipe-credits",
+    "href": "orange_sauce.html#recipe-credits",
+    "title": "Orange Sauce",
+    "section": "Recipe Credits:",
+    "text": "Recipe Credits:\n\nOriginal Recipe from Taste of Home"
+  },
+  {
     "objectID": "japnese_cheese_cake.html",
     "href": "japnese_cheese_cake.html",
     "title": "Japanese Cheese Cake",
@@ -180,40 +201,5 @@
     "title": "Japanese Cheese Cake",
     "section": "Credits:",
     "text": "Credits:\n\nOriginal recipe came from Just One Cookbook"
-  },
-  {
-    "objectID": "chocolate_souffle.html#recipe-credits",
-    "href": "chocolate_souffle.html#recipe-credits",
-    "title": "Chocolate Souffle",
-    "section": "Recipe Credits:",
-    "text": "Recipe Credits:\n\nOriginal Recipe from New York Times"
-  },
-  {
-    "objectID": "orange_sauce.html",
-    "href": "orange_sauce.html",
-    "title": "Orange Sauce",
-    "section": "",
-    "text": "#| label: recipe\n#| echo: false\ningredients &lt;- list(\n  \"1. sugar\" = \"25 g\",\n  \"2. cornstarch\" = \"1.5 g\",\n  \"3. orange zestr\" = \"1/8 tsp\",\n  \"4. orange juice\" = \"80 g\",\n  \"5. butter\" = \"5 g\"\n)"
-  },
-  {
-    "objectID": "orange_sauce.html#step-by-step",
-    "href": "orange_sauce.html#step-by-step",
-    "title": "Orange Sauce",
-    "section": "Step by Step",
-    "text": "Step by Step"
-  },
-  {
-    "objectID": "orange_sauce.html#szzzzs-notes",
-    "href": "orange_sauce.html#szzzzs-notes",
-    "title": "Orange Sauce",
-    "section": "SZzZz’s Notes:",
-    "text": "SZzZz’s Notes:"
-  },
-  {
-    "objectID": "orange_sauce.html#recipe-credits",
-    "href": "orange_sauce.html#recipe-credits",
-    "title": "Orange Sauce",
-    "section": "Recipe Credits:",
-    "text": "Recipe Credits:\n\nOriginal Recipe from Taste of Home"
   }
 ]
